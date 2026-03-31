@@ -39,3 +39,7 @@ The application will process the PDF document and output moderation results.
 - `src/moderation/` - Content moderation logic
 - `src/prompt/` - Prompt templates
 - `data/` - Document storage
+
+---
+
+### This task took me around 45 - 48 minutes to complete

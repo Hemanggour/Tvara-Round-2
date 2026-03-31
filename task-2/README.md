@@ -40,3 +40,7 @@ The application will:
 ## Customization
 
 Modify the query in `src/main.py` to ask different questions about your document content.
+
+---
+
+### This task took me around ~50 - 60 minutes to complete
